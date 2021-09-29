@@ -2,4 +2,6 @@
 *.pdb
 *.dll
 *.cache
+*json
+*.txt
 
